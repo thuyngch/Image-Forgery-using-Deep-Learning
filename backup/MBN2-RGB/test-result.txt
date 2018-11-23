@@ -1,0 +1,6 @@
+TP = 88.51 %; FP = 11.49 %
+TN = 72.39 %; FN = 27.61 %
+Accuracy = 78.50 %
+Precision = 88.51 %
+Recall = 66.21 %
+F-score = 75.75 %
