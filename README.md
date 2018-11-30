@@ -2,9 +2,6 @@
 Image Forgery Detection using Deep Learning
 
 
-## Introduction
-
-
 ## Proposal
 The whole framework: An RGB image, firstly, is divided into overlapping patches. Then, RGB patches are converted to the YCrCb color channel, before being scored by a network. Lastly, a post-processing stage is designed to refine predictions of the network and make a final conclusion on the authentication of the image.
 
