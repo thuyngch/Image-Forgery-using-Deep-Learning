@@ -1,5 +1,5 @@
 # Image-Forgery-using-Deep-Learning
-Image Forgery Detection using Deep Learning
+Image Forgery Detection using Deep Learning, implemented in PyTorch.
 
 
 ## Proposal
