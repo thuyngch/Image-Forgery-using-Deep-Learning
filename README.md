@@ -12,7 +12,7 @@ The whole framework: An RGB image, firstly, is divided into overlapping patches 
 The deep neural network is adapted from MobileNet-V2. However, we modify the original MobileNet-V2 to more relevant to our problem. The picture below show the architecture modification.
 
 <p align="center">
-  <img src="https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning/blob/master/pic/modification.png" width="800" alt="accessibility text">
+  <img src="https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning/blob/master/pic/modification.png" width="600" alt="accessibility text">
 </p>
 
 
