@@ -3,10 +3,16 @@ Image Forgery Detection using Deep Learning, implemented in PyTorch.
 
 
 ## Proposal
-The whole framework: An RGB image, firstly, is divided into overlapping patches. Then, RGB patches are converted to the YCrCb color channel, before being scored by a network. Lastly, a post-processing stage is designed to refine predictions of the network and make a final conclusion on the authentication of the image.
+The whole framework: An RGB image, firstly, is divided into overlapping patches (64x64). Then, RGB patches are converted to the YCrCb color channel, before being scored by a network. Lastly, a post-processing stage is designed to refine predictions of the network and make a final conclusion on the authentication of the image.
 
 <p align="center">
   <img src="https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning/blob/master/pic/framework.png" width="800" alt="accessibility text">
+</p>
+
+The deep neural network is adapted from MobileNet-V2. However, we modify the original MobileNet-V2 to more relevant to our problem. The picture below show the architecture modification.
+
+<p align="center">
+  <img src="https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning/blob/master/pic/modification.png" width="800" alt="accessibility text">
 </p>
 
 
