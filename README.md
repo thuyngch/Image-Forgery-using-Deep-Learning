@@ -29,6 +29,9 @@ as MBN2, as the core. There are two color channels to be considered, namely RGB 
   <img src="https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning/blob/master/pic/computation.png" width="400" alt="accessibility text">
 </p>
 
+## Technical report
+For further information, please refer to our [technical report](https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning/blob/master/thuy2018.pdf).
+
 
 ## Team members
 * [Nguyen Chinh Thuy](https://github.com/AntiAegis)
