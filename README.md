@@ -23,9 +23,6 @@ as MBN2, as the core. There are two color channels to be considered, namely RGB 
 
 <p align="center">
   <img src="https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning/blob/master/pic/performance.png" width="400" alt="accessibility text">
-</p>
-
-<p align="center">
   <img src="https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning/blob/master/pic/computation.png" width="400" alt="accessibility text">
 </p>
 
