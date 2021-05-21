@@ -34,7 +34,7 @@ scipy==1.1.0
 simplegeneric==0.8.1
 six==1.11.0
 tensorboard==1.10.0
-tensorflow==1.10.1
+tensorflow==2.5.0
 termcolor==1.1.0
 torch==0.4.1
 torch-nightly==1.0.0.dev20181006
